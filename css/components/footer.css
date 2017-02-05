@@ -1,0 +1,11 @@
+/* Footer design */
+#footer {
+    background: #202C39;
+    padding: 20px;
+    font-size: 30px;
+}
+
+#footer:hover {
+    font-size: 35px;
+    color:#F29559;
+}
